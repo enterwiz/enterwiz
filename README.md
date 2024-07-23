@@ -2,12 +2,9 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning [technology/language you're learning]
-- 💬 Ask me about [topics you're knowledgeable about]
+- 🛠️ Full Stack Indie Maker.
+- 🌱 I’m currently learning LLMs.
 - 📫 How to reach me: enterwizdev@outlook.com
-<!--
-- ⚡ Fun fact: [a fun fact about you]
--->
 
 ## 🎨 Projects
 
