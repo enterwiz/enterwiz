@@ -30,6 +30,13 @@ Feel free to check out my [GitHub repositories](https://github.com/enterwiz?tab=
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enterwiz&layout=compact&theme=radical)
 
+## 📝 Latest Blog Posts
+
+<!-- 
+- [Your latest blog post title](https://yourblog.com/your-latest-post)
+- [Another blog post title](https://yourblog.com/another-post)
+-->
+
 ## 📫 Connect with Me
 
 <!--
@@ -38,17 +45,9 @@ Feel free to check out my [GitHub repositories](https://github.com/enterwiz?tab=
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/enterwiz)&nbsp;
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:enterwizdev@outlook.com)
 
-## 📝 Latest Blog Posts
+## Support me
 
-<!-- 
-- [Your latest blog post title](https://yourblog.com/your-latest-post)
-- [Another blog post title](https://yourblog.com/another-post)
--->
-
----
-
-⭐️ From [EnterWiz](https://github.com/enterwiz)
-
+<a href="https://www.buymeacoffee.com/enterwiz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
 
 <!--
 **enterwiz/enterwiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
