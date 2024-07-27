@@ -13,7 +13,9 @@
 
 Feel free to check out my [GitHub repositories](https://github.com/enterwiz?tab=repositories) for more open source projects.
 
-## 🛠️ Languages and Tools
+## 🛠️ Skills
+
+### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
@@ -22,15 +24,13 @@ Feel free to check out my [GitHub repositories](https://github.com/enterwiz?tab=
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## 📈 GitHub Stats
+### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=enterwiz&show_icons=true&hide_border=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enterwiz&show_icons=true&hide_border=true&theme=radical)
 
-## 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enterwiz&layout=compact&theme=radical&hide=html,css)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enterwiz&layout=compact&theme=radical)
-
-## 📝 Latest Blog Posts
+## 📝 Blog Posts
 
 <!-- 
 - [Your latest blog post title](https://yourblog.com/your-latest-post)
