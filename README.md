@@ -10,6 +10,7 @@
 
 - [AI Tag Generator](https://ai-tag-generator.com): Generates tags for YouTube and Instagram using cutting-edge LLM technologies.
 - [AI Anime Art Generator](https://aianimeartgenerator.com): Generates anime images based on input content using Stable Diffusion.
+- [Indie Maker Tools](https://indiemakertools.com): Get your favorite productivity tools in Indie Maker Tools Directory.
 
 Feel free to check out my [GitHub repositories](https://github.com/enterwiz?tab=repositories) for more open source projects.
 
