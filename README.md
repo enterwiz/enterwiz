@@ -4,7 +4,7 @@
 
 - 🛠️ Full Stack Indie Maker.
 - 🌱 I’m currently learning LLMs.
-- 📫 How to reach me: enterwizdev@outlook.com
+- 📫 How to reach me: [Twitter](https://x.com/enterwiz), [Email](mailto:enterwizdev@outlook.com)
 
 ## 🎨 Projects
 
