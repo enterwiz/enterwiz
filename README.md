@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 
-- 🛠️ Full Stack Indie Maker.
-- 🌱 I’m currently learning LLMs.
+- 🛠️ Developer, Freelancer, Indiemaker.
+- 🌱 Focus on GenAI, productivity and minimalist lifestyle.
 - 📫 How to reach me: [Twitter](https://x.com/enterwiz), [Email](mailto:contact@enterwiz.org)
 
 ## 🎨 Projects
