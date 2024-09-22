@@ -8,6 +8,7 @@
 
 ## 🎨 Projects
 
+- [GenToolList](https://gentoollist.com): Create and share your favorite tool list with several clicks.
 - [ProductHunt Insight](https://phinsight.io/): Dive into ProductHunt, discover trends, track rising stars, and find ideas in minutes.
 - [AI Tag Generator](https://ai-tag-generator.com): Generates tags for YouTube and Instagram using cutting-edge LLM technologies.
 - [AI Anime Art Generator](https://aianimeartgenerator.com): Generates anime images based on input content using Stable Diffusion.
