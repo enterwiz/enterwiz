@@ -1,4 +1,4 @@
-# Hi, I'm EnterWiz 👋
+# Hi, I'm Enterwiz 👋
 
 ## 🚀 About Me
 
@@ -10,9 +10,8 @@
 
 - [GenToolList](https://gentoollist.com): Create and share your favorite tool list with several clicks.
 - [ProductHunt Insight](https://phinsight.io/): Dive into ProductHunt, discover trends, track rising stars, and find ideas in minutes.
-- [AI Tag Generator](https://ai-tag-generator.com): Generates tags for YouTube and Instagram using cutting-edge LLM technologies.
 - [AI Anime Art Generator](https://aianimeartgenerator.com): Generates anime images based on input content using Stable Diffusion.
-- [Indie Maker Tools](https://indiemakertools.com): Get your favorite productivity tools in Indie Maker Tools Directory.
+- [Indie Maker Tools](https://indiemakertools.com): Get your favorite productivity tools in Indie Maker Tools.
 
 Feel free to check out my [GitHub repositories](https://github.com/enterwiz?tab=repositories) for more open source projects.
 
